@@ -1,5 +1,5 @@
 
-
+# 💼 Job Portal App
 A modern, full-stack Job Portal built with the powerful **MERN stack** — enabling both job seekers (students) and recruiters to connect seamlessly. With a clean, animated, and responsive UI, this platform allows users to explore opportunities, post jobs, and manage applications with ease.
 
 ---
